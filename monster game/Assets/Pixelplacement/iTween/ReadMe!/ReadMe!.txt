@@ -1,3 +1,3 @@
-iTween can be used with all scripting languages that Unity supports including JavaScript, C# and Boo. To install iTween create a folder named "Plugins" in your project's assets (if you are using C# the location of iTween does not matter as long as it is inside your assets folder).
-
-For complete documentation, examples and information visit: http://itween.pixelplacement.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:a72658818d0e8ba92773a67e77e80be8df3654a41a863b3e85fbe7e64e4bd476
+size 375

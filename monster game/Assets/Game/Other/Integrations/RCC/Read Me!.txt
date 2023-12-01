@@ -1,8 +1,3 @@
-RCC Support - ReadMe!
------------------------------------------------------------------------------------------------------------------------------------------------------------
-• Make sure that Realistic Car Controller is already imported to your project before importing the RealisticCarController.unitypackage!
-
-• Please note that this will overwrite the deafault car physics and car configurations will no longer be done via the Vehicle Setup Wizard.
-
-• Read the documentation (ReadMe.pdf) for more information on how to set up your RCC cars.
------------------------------------------------------------------------------------------------------------------------------------------------------------
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f04bfdf1fcdf43346cd354f955c38a2bcb4d27994eaf7637d84777ba528f5e1
+size 708

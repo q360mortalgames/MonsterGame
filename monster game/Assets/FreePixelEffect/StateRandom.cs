@@ -1,9 +1,3 @@
-﻿using UnityEngine;
-public class StateRandom : StateMachineBehaviour
-{
-	static int AnimatorRandom = Animator.StringToHash("Random");
-	override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-	{
-		animator.SetFloat(AnimatorRandom, Random.Range(0f, 1f));
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2245cb7005b34b54090efc3d08a9dd6133805186b46ca13b0b4c089697742f3
+size 301

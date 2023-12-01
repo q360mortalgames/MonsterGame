@@ -1,32 +1,3 @@
-using UnityEngine;
-
-
-
-namespace BuildReportTool.Window.Screen
-{
-
-public abstract class BaseScreen
-{
-	public abstract string Name { get; }
-
-	public abstract void RefreshData(BuildInfo buildReport);
-
-	public abstract void DrawGUI(Rect position, BuildInfo buildReportToDisplay);
-	
-	public virtual void Update(double timeNow, double deltaTime, BuildInfo buildReportToDisplay)
-	{
-	}
-
-	
-	protected void DrawCentralMessage(Rect position, string msg)
-	{
-		float w = 300;
-		float h = 100;
-		float x = (position.width - w) * 0.5f;
-		float y = (position.height - h) * 0.25f;
-
-		GUI.Label(new Rect(x, y, w, h), msg);
-	}
-}
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:234e7756dcd20300922fc5aecd1815f646e51728dc271c7cfe203deb56cee765
+size 613

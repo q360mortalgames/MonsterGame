@@ -1,8 +1,3 @@
-RCC Support - ReadMe!
------------------------------------------------------------------------------------------------------------------------------------------------------------
-• Make sure that Randomation Vehicle Physics 2.0 is already imported to your project before importing the RVP.unitypackage!
-
-• Please note that this will overwrite the deafault vehicle physics and vehicle configurations will no longer be done via the Vehicle Setup Wizard.
-
-• Read the documentation (ReadMe.pdf) for more information on how to set up your RVP cars.
------------------------------------------------------------------------------------------------------------------------------------------------------------
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1186211613190e59e655b2fe6d989235315c4abfc481272d8b49e889ed7520b
+size 698

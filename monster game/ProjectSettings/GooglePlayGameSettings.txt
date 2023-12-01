@@ -1,9 +1,3 @@
-lastUpgrade=00950
-proj.pluginVersion=0.9.50
-proj.AppId=223524034513
-and.BundleId=com.sevenseas.turbospiritn
-proj.classDir=Assets
-proj.ConstantsClassName=GPGSIds
-and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e223524034513%3c%2fstring%3e%0d%0a++%3c%21--+achievement+achievement_firstwin+--%3e%0d%0a++%3cstring+name%3d%22achievement_achievement_firstwin%22+translatable%3d%22false%22%3eCgkI0a_I2MAGEAIQAA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+achievement_bestlaptime+--%3e%0d%0a++%3cstring+name%3d%22achievement_achievement_bestlaptime%22+translatable%3d%22false%22%3eCgkI0a_I2MAGEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+achievement_lapknockoutwinner+--%3e%0d%0a++%3cstring+name%3d%22achievement_achievement_lapknockoutwinner%22+translatable%3d%22false%22%3eCgkI0a_I2MAGEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+achievement_circuitwinner%3a+--%3e%0d%0a++%3cstring+name%3d%22achievement_achievement_circuitwinner%22+translatable%3d%22false%22%3eCgkI0a_I2MAGEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+achievement_eliminationwinner+--%3e%0d%0a++%3cstring+name%3d%22achievement_achievement_eliminationwinner%22+translatable%3d%22false%22%3eCgkI0a_I2MAGEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Leader+of+TurboSpirit+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_leader_of_turbospirit%22+translatable%3d%22false%22%3eCgkI0a_I2MAGEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
-and.ClientId=
-android.SetupDone=true
+version https://git-lfs.github.com/spec/v1
+oid sha256:db446335f67b97b45c46e99e41277e067877c3cf0e23092e13b8151de6eedb78
+size 1715

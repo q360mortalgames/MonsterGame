@@ -1,28 +1,3 @@
-﻿using UnityEngine;
-using System.Collections;
-using UnityEditor;
-using UnityEngine.UI;
-using RGSK;
-
-[CustomEditor(typeof(RaceUI))]
-public class RaceUI_Editor : Editor
-{
-
-    RaceUI m_target;
-
-    public void OnEnable()
-    {
-        //    m_target = (RaceUI)target;
-    }
-
-
-    public override void OnInspectorGUI()
-    {
-
-        //LOGO
-        Texture logo = (Texture)Resources.Load("EditorUI/RGSKLogo");
-        GUILayout.Label(logo, GUILayout.Height(50));
-
-        DrawDefaultInspector();
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:74e11fc5c124f71b1249147eb23c4c7e5edef110e1613868a60627ce5d485cd2
+size 503

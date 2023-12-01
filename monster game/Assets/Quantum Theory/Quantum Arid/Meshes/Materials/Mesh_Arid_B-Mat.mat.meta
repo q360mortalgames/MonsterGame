@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 607e71e7ef88dcf41aeff8332f7f4b3b
-labels:
-- mountain
-- environment
-- skybox
-- sky
-- quantum
-- theory
-- hills
-- sunset
-- arid
-- dry
-- strata
-NativeFormatImporter:
-  userData: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:478552477b35ba14c87403647dd4a9704777ad5ebabd9e6985b2a6cfdf517c1e
+size 201

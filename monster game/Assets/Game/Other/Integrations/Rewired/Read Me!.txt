@@ -1,8 +1,3 @@
-Rewired Support - ReadMe!
------------------------------------------------------------------------------------------------------------------------------------------------------------
-• Make sure that Rewired is already imported to your project before importing the Rewired.unitypackage!
-
-• Please note that this will overwrite the deafault vehicle input.
-
-• Read the documentation (ReadMe.pdf) for more information on Rewired.
------------------------------------------------------------------------------------------------------------------------------------------------------------
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb9a4607f74df9013c706ff2876393d704e46202031d58fb51ce33e37944f403
+size 587

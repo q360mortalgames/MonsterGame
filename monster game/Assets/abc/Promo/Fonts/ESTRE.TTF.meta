@@ -1,21 +1,3 @@
-fileFormatVersion: 2
-guid: d440366cb825f9f4a92d4ec69dfad5c8
-timeCreated: 1528888893
-licenseType: Pro
-TrueTypeFontImporter:
-  serializedVersion: 4
-  fontSize: 16
-  forceTextureCase: -2
-  characterSpacing: 0
-  characterPadding: 1
-  includeFontData: 1
-  fontName: Estrangelo Edessa
-  fontNames:
-  - Estrangelo Edessa
-  fallbackFontReferences: []
-  customCharacters: 
-  fontRenderingMode: 0
-  ascentCalculationMode: 1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:9274fdb539ae915e72b8dfd4e1b39d487d9c2d2cc4a4a049f27bbaccd84f2c92
+size 470

@@ -1,25 +1,3 @@
-fileFormatVersion: 2
-guid: d3238ef52b741444bb9bf8543a036c99
-TrueTypeFontImporter:
-  externalObjects: {}
-  serializedVersion: 4
-  fontSize: 16
-  forceTextureCase: -2
-  characterSpacing: 0
-  characterPadding: 1
-  includeFontData: 1
-  fontName: Forgotten Futurist
-  fontNames:
-  - Forgotten Futurist
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: 7d8c38625924b1c45b1e6f9058a0e2de, type: 3}
-  - {fileID: 12800000, guid: ca64fcad6f5ac814aac790c257737550, type: 3}
-  - {fileID: 12800000, guid: 3c0d836eb3b3d434e9271e4663aa17f3, type: 3}
-  customCharacters: 
-  fontRenderingMode: 0
-  ascentCalculationMode: 1
-  useLegacyBoundsCalculation: 0
-  shouldRoundAdvanceValue: 1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f2def69bbf6dadeb6b42edd0e00511fadbf398eb4b956981d75f771cdeae229
+size 727

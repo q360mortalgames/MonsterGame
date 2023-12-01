@@ -1,25 +1,3 @@
-fileFormatVersion: 2
-guid: a8703fc69e4e6fe4299b614ced3af72a
-labels:
-- Car
-- Sports
-- Vehicle
-- Race
-- Racer
-- Lowpoly
-- Lod
-- Hardsurface
-- Wheels
-- Auto
-- Automobile
-- Game
-- Mobile
-- Ride
-- Chase
-- Run
-- Fast
-- Interior
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:d996769b97fa5f52ac2d2af620675debb25397793f6ff24f440d074fc59d224d
+size 300

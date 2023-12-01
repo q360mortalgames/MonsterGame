@@ -1,20 +1,3 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class TouchByMobe : MonoBehaviour {
-
-
-	// Update is called once per frame
-	void Update () {
-
-        if (Input.touchCount > 0)
-        {
-            Touch touch = Input.GetTouch(0);
-            Vector3 touchPosition = Camera.main.ScreenToWorldPoint(touch.position);
-            touchPosition.z = 0f;
-            transform.position = touchPosition;
-            Debug.Log("i came");
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:814793467a4833cf809a7952d789bd33a6c6be0ef0c37fb881a0a5226244f95a
+size 489

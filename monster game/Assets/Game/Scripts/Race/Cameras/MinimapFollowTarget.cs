@@ -1,36 +1,3 @@
-﻿using UnityEngine;
-using System.Collections;
-
-namespace RGSK {
-
-    /// <summary>
-    /// MinimapFollowTarget is attached to your MinimapCamera to follow the player
-    /// </summary>
-    
-    public class MinimapFollowTarget : MonoBehaviour
-    {
-
-        public Transform target;
-        public float height = 100;
-        public bool followPosition; //should the camera rotate with the target
-        public bool followRotation; //should the camera rotate with the target
-
-        void Update()
-        {
-            //find the target
-            if (!target && GameObject.FindGameObjectWithTag("Player"))
-                target = GameObject.FindGameObjectWithTag("Player").transform;
-        }
-
-        void LateUpdate()
-        {
-            if (!target) return;
-
-            if (followRotation)         
-                transform.eulerAngles = new Vector3(transform.eulerAngles.x, target.eulerAngles.y, transform.eulerAngles.z);
-
-            if(followPosition)
-                transform.position = new Vector3(target.position.x, height, target.position.z);            
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f742c3c04d626071bb55f5e5c0265d35e3bffa00846ac4999b9ef79b62659aa6
+size 1096

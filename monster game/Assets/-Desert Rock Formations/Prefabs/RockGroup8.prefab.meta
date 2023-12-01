@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: b6004049a62576844854b257e3bab224
-labels:
-- Desert
-- Sand
-- Sandstone
-- Terrain
-- Yellow
-- PBR
-- PBS
-timeCreated: 1426947869
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:44b2b4773e145e00abc2473699ac91c094a0a588dcd5c156df7cdb06cfc78869
+size 248

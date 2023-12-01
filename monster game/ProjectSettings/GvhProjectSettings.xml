@@ -1,4 +1,3 @@
-<projectSettings>
-  <projectSetting name="Google.VersionHandler.VerboseLoggingEnabled" value="True" />
-  <projectSetting name="Google.VersionHandler.VersionHandlingEnabled" value="True" />
-</projectSettings>
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e735af04dd4da86388b891083846434512afc7d8db433787a13fbfdf24064cf
+size 207

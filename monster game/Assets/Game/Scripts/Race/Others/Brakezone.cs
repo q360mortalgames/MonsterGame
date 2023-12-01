@@ -1,16 +1,3 @@
-﻿using UnityEngine;
-using System.Collections;
-
-namespace RGSK
-{
-    /// <summary>
-    /// Brakezones are attached to a trigger and tell the AI to brake to the "targetSpeed" while in the trigger
-    /// They are useful for really tight corners at high speeds that the AI wont be able to make with their current logic
-    /// </summary>
-	public class Brakezone : MonoBehaviour {
-
-        [Tooltip("The speed the AI will try to get to when in this trigger")]
-		public float targetSpeed = 50;
-	
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:391e3d018b60fd0b4bc3f5fb40d36079c5a751e445637b3401f3c0973d2f6c5d
+size 498

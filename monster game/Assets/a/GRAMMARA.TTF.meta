@@ -1,22 +1,3 @@
-fileFormatVersion: 2
-guid: 64df8b9cb236283488cc3a4b52e8e4a4
-TrueTypeFontImporter:
-  externalObjects: {}
-  serializedVersion: 4
-  fontSize: 16
-  forceTextureCase: -2
-  characterSpacing: 0
-  characterPadding: 1
-  includeFontData: 1
-  fontName: Grammara
-  fontNames:
-  - Grammara
-  fallbackFontReferences: []
-  customCharacters: 
-  fontRenderingMode: 0
-  ascentCalculationMode: 1
-  useLegacyBoundsCalculation: 0
-  shouldRoundAdvanceValue: 1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:03f4ed97c4227dc4a6c4be2e445d5d8086e4a56332a854c7df3b86f2a457d7eb
+size 494

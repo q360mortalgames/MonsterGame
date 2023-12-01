@@ -1,14 +1,3 @@
-﻿using UnityEngine;
-using System.Collections;
-
-namespace RGSK
-{
-    public class Checkpoint : MonoBehaviour
-    {
-
-        public enum CheckpointType { Speedtrap, TimeCheckpoint };
-        public CheckpointType checkpointType;
-        public float timeToAdd = 10.0f; //time to add (Checkpoints Race Only)
-
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a45212f161a239a194561c4b6ef4e39fbc495f707bea449fc60def842410663d
+size 316

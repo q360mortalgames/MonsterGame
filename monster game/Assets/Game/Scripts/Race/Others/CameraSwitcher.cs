@@ -1,15 +1,3 @@
-﻿using UnityEngine;
-using System.Collections.Generic;
-
-//v1.1.0
-//This script is no longer used. Camera switching is now handled by ChildCameraPosition.cs
-//Please read the documentation
-//You can delete this script from your project files.
-
-namespace RGSK
-{
-    public class CameraSwitcher : MonoBehaviour
-    {
-        
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4191e0ac774e9b9115485b843ede5d80985b2765f359dc07d9f05007a0fd673
+size 332

@@ -1,26 +1,3 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
-
-public class LoadingPage : MonoBehaviour 
-{
-
-	void Start()
-	{
-		StartCoroutine(LoadYourAsyncScene());
-	}
-
-	IEnumerator LoadYourAsyncScene()
-	{
-
-        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("startpage");
-      
-        // Wait until the asynchronous scene fully loads
-        while (!asyncLoad.isDone)
-		{
-			yield return null;
-		}
-	}
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d11486c693c7924dc68b75743897a5af1ade149622b64c2e9ce1ab911003713a
+size 473

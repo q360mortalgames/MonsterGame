@@ -1,32 +1,3 @@
-﻿//Simple class that fades in/out a UI Text.
-using UnityEngine;
-using System.Collections;
-using UnityEngine.UI;
-
-namespace RGSK
-{
-    [RequireComponent(typeof(Text))]
-    public class TextAlpha : MonoBehaviour
-    {
-
-        public float fadeSpeed = 2.0f;
-        private Text text;
-
-        void Start()
-        {
-            text = this.GetComponent<Text>();
-        }
-
-        void Update()
-        {
-            if (!text.enabled || text.text == "")
-                return;
-
-            Color alpha = text.color;
-
-            alpha.a = (Mathf.PingPong(Time.unscaledTime * fadeSpeed, 1.0f));
-
-            text.color = alpha;
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:706735f4e30c0e896f06a5e21f97b311337179d133cbd13a2447f355cc8d6405
+size 648

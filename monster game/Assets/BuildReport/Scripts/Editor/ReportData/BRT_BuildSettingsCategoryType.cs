@@ -1,36 +1,3 @@
-﻿
-
-namespace BuildReportTool
-{
-
-public enum BuildSettingCategory
-{
-	None = 0,
-
-	WindowsDesktopStandalone = 10,
-	WindowsStoreApp,
-	MacStandalone = 20,
-	LinuxStandalone = 25,
-
-	WebPlayer = 30,
-	FlashPlayer,
-	WebGL,
-
-	iOS = 40,
-	Android = 50,
-	Blackberry = 60,
-	WindowsPhone8,
-	Tizen,
-
-	Xbox360 = 70,
-	XboxOne,
-
-	PS3 = 80,
-	PS4,
-	PSVita,
-	PSM,
-
-	SamsungTV = 90,
-}
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:11b334fe72d38da39ff3fac643eee85801cd58a9fe970b52e25ae15c0677f8b3
+size 366
